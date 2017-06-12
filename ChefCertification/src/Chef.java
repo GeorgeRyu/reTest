@@ -7,8 +7,9 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by madoka on 2017/06/08.
+ * Created by ryu on 2017/06/11.
  */
+
 public class Chef{
     private String name; //name of the chef
     private int yearsExperience;

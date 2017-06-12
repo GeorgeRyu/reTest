@@ -1,7 +1,7 @@
 import java.util.List;
 
 /**
- * Created by madoka on 2017/06/07.
+ * Created by ryu on 2017/06/11.
  */
 public class Food {
     /*

@@ -1,5 +1,5 @@
 /**
- * Created by madoka on 2017/06/08.
+ * Created by ryu on 2017/06/11.
  */
 public class Meal {
 
